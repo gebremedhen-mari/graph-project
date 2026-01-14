@@ -15,5 +15,5 @@
 ## How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/gebremedhen-mari/GraphWowApp.git
-   cd GraphWowApp
+   git clone https://github.com/gebremedhen-mari/GraphWoApp.git
+   cd GraphWoApp
