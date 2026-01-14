@@ -1,6 +1,6 @@
-# GraphWowApp
+# GraphprojectApp
 
-**W!** A fun and interactive Java project that implements:  
+ A fun and interactive Java project that implements:  
 - BFS (Breadth-First Search)  
 - DFS (Depth-First Search)  
 - Dijkstra's shortest paths  
